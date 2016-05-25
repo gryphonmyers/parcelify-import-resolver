@@ -16,6 +16,7 @@
   "author": "Johannes Lumpe",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.13.1",
     "resolve": "^1.0.0",
     "through": "^2.3.6"
   }
